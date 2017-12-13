@@ -1,0 +1,46 @@
+#h{
+	margin-top: 0;
+}
+#a1{
+	padding-top:50px;
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	background-color:#149BDF;
+	height: 150px;
+	width: 100%;	
+    }
+#a2{
+	text-align: center;
+	padding-top: 50px;
+	font-size: 15px;
+}
+#o{
+	background-color:#149BDF;	
+	color:#000;
+	height:200px;
+	margin-top:0px;
+}
+.a4{
+	color:black;
+	font-weight:normal;
+}
+#k{
+	background-color:yellow;
+	height:350px;
+	padding-top:30px;
+	padding-bottom:25px;
+	margin-top: 240px;
+	width: 1000px;
+	height: 300px;
+	margin-left: 19.5%;
+}
+.y{
+	color:black;
+}
+#x{
+	border: 0px solid red;
+	height: 100%;
+	margin-top:10px;
+	padding-top: 0px;
+}
